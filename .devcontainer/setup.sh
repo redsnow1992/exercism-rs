@@ -23,6 +23,7 @@ rustup component add clippy --toolchain nightly
 
 cargo install cargo-expand
 cargo install cargo-edit
+cargo install cargo-nextest
 
 pip3 install pre-commit
 
